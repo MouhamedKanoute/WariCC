@@ -16,7 +16,6 @@
 require('client.inc.php');
 
 require_once INCLUDE_DIR . 'class.page.php';
-
 $section = 'home';
 require(CLIENTINC_DIR.'header.inc.php');
 ?>
